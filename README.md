@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No: 212224240023
-# Name: B V REVANTH KUMAR
-# Date: 09/03/2026
+# Reg No: 212225220012
+# Name: ARTHI S A
+
 
 
 # AIM:
